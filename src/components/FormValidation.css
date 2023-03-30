@@ -1,0 +1,23 @@
+.ticket::after{
+    content: ' *';
+    position: absolute;
+    color: red;
+}
+
+.project-name::after{
+    content: ' *';
+    position: absolute;
+    color: red;
+}
+
+.task-name::after{
+    content: ' *';
+    position: absolute;
+    color: red;
+}
+
+.time::after{
+    content: '*';
+    position: absolute;
+    color: red;
+}
